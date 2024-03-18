@@ -8,11 +8,7 @@
 # testing
 /coverage
 
-# API key
-/src/API/apikey.js
 
-# css file
-/src/css/home.css
 
 # production
 /build
